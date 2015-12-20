@@ -12,3 +12,6 @@ https://github.com/peta-okechan/xv6textjp
 https://pdos.csail.mit.edu/6.828/2014/xv6/book-rev8.pdf
 
 こちらは原約になります。
+
+ここも見ていて面白いです。 
+https://pdos.csail.mit.edu/6.828/2014/index.html
